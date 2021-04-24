@@ -209,7 +209,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 .mobile-nav-active .mobile-nav-toggle i {
   color: #fff;
-} 
+}
+
 .icofont-navigation-menu:before {
   color: #6b4798;
 }
@@ -381,6 +382,7 @@ section {
   bottom: 0;
   left: calc(50% - 30px);
 }
+
 #about .btn-get-cv {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
@@ -611,6 +613,7 @@ section {
 .contact {
   background-color: #d5cae330;
 }
+
 .contact .info {
   border-top: 3px solid #6b4798;
   border-bottom: 3px solid #6b4798;
