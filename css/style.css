@@ -15,7 +15,13 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6, .font-primary {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.font-primary {
   font-family: "Raleway", sans-serif;
 }
 
@@ -85,7 +91,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Navigation Menu
 --------------------------------------------------------------*/
 /* Desktop Navigation */
-.nav-menu, .nav-menu * {
+.nav-menu,
+.nav-menu * {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -107,7 +114,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Open Sans", sans-serif;
 }
 
-.nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
+.nav-menu a:hover,
+.nav-menu .active > a,
+.nav-menu li:hover > a {
   color: #6b4798;
   text-decoration: none;
 }
@@ -154,7 +163,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: 0.3s;
 }
 
-.mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
+.mobile-nav a:hover,
+.mobile-nav .active > a,
+.mobile-nav li:hover > a {
   color: #fff;
   text-decoration: none;
 }
@@ -228,6 +239,12 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   background: #d5cae330;
   border-bottom: 2px solid #d5cae3;
   margin: 72px 0 -72px 0;
+}
+
+#hero .hero-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #hero h1 {
@@ -317,7 +334,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   }
   .contact .info p {
     font-size: 13px !important;
-  } 
+  }
 }
 
 @-webkit-keyframes up-down {
@@ -373,7 +390,7 @@ section {
 }
 
 .section-title p::after {
-  content: '';
+  content: "";
   position: absolute;
   display: block;
   width: 60px;
@@ -435,7 +452,7 @@ section {
   padding: 30px;
   position: relative;
   overflow: hidden;
-  margin: 0  0 40px 0;
+  margin: 0 0 40px 0;
   background: #fff;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
@@ -500,7 +517,8 @@ section {
   transition: all 0.3s ease-in-out;
 }
 
-.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+.portfolio #portfolio-flters li:hover,
+.portfolio #portfolio-flters li.filter-active {
   color: #6b4798;
 }
 
@@ -679,7 +697,6 @@ section {
   background: #6b4798;
   color: #fff;
 }
-
 
 @-webkit-keyframes animate-loading {
   0% {
