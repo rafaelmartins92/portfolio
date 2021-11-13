@@ -24,6 +24,8 @@
 
   <p>I developed it with HTML, CSS, jQuery and Bootstrap.</p>
 
+  <p>I also designed a layout with Figma.</p>
+
   <p>Here I can show my projects and show a little bit more about me.</p>
 </h4>
 
@@ -52,6 +54,12 @@ This project was developed with the following technologies:
 You can try it here:
 
 - [Rafael Martins - Portfolio][demo]
+
+## :art: Layout
+
+Check the layout here:
+
+- [Figma][figma]
 
 ## :information_source: How to use
 
@@ -83,3 +91,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/rafa
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [demo]: https://rafaelmartins92.github.io/portfolio/
+[figma]: https://www.figma.com/file/Zhgpd7DPOJ5sNlVyl3Flyi/Rafael-Martins---Portfolio?node-id=0%3A1
